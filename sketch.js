@@ -51,7 +51,6 @@ mainCyclist.scale=0.07;
 
 
 mainCyclist.setCollider("rectangle",0,0,40,40);
-mainCyclist.setCollission("rectangle",0,0,40,40,50);
 
 
   
